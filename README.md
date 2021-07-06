@@ -1,6 +1,6 @@
 # GitHub API Project
 
-Made with React, MUI and Redux with React.js
+Made with React, MUI and Redux 
 
 # Purpose
 
